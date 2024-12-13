@@ -1,0 +1,1 @@
+This repository demonstrates a common error in React Native's FlatList component: incorrect usage of the `keyExtractor` prop.  Using the index as the key can lead to unexpected behavior.  The example shows how to fix this by using a unique identifier for each item.
